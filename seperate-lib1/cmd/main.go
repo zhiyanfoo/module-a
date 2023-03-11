@@ -7,4 +7,5 @@ import (
 
 func main() {
 	fmt.Printf("seperate lib 1 main\n")
+	a.F1()
 }
