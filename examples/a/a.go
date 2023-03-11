@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/zhiyanfoo/module-a/lib/a"
+	"github.com/zhiyanfoo/module-a/pkg/a"
 )
 
 func main() {
