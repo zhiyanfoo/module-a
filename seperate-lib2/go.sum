@@ -1,0 +1,6 @@
+github.com/zhiyanfoo/module-a v0.2.0 h1:P9/xQswzi4CnKjmvM5U+ghI1x6aIflnS8hatPpbfxBw=
+github.com/zhiyanfoo/module-a v0.2.0/go.mod h1:y43O629l/hkq79rAmjHfkk/llCWJWcvRO08NGHjyoaU=
+github.com/zhiyanfoo/module-a v0.2.1-0.20230311205151-a1c18eabc27e h1:0dYWlvKQbHT/Y/l4XP+viV2phvmsb9YkNyqdJs8xpeU=
+github.com/zhiyanfoo/module-a v0.2.1-0.20230311205151-a1c18eabc27e/go.mod h1:y43O629l/hkq79rAmjHfkk/llCWJWcvRO08NGHjyoaU=
+github.com/zhiyanfoo/module-a/seperate-lib1 v0.0.0-20230311210701-9f89960a3c93 h1:DpsTh7bhZfCKWsy0CD+6Junv+s/sUUQi5FEhHhIXHGE=
+github.com/zhiyanfoo/module-a/seperate-lib1 v0.0.0-20230311210701-9f89960a3c93/go.mod h1:N1ohXoJZ7BFrdpUvnioXAOfFeJZ8yEUi+4/0bRk3zPQ=
