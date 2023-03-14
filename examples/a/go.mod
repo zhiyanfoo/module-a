@@ -1,4 +1,4 @@
-module github.com/zhiyanfoo/module-a/examples/a
+module localhost/module-a/examples/a
 
 go 1.20
 

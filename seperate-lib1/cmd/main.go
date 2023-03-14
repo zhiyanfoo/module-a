@@ -2,6 +2,7 @@ package main
 
 import (
 	"fmt"
+
 	"github.com/zhiyanfoo/module-a/seperate-lib1/pkg/a"
 )
 

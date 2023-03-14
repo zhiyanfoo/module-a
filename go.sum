@@ -1,0 +1,4 @@
+github.com/zhiyanfoo/module-a v0.2.1-0.20230311205151-a1c18eabc27e h1:0dYWlvKQbHT/Y/l4XP+viV2phvmsb9YkNyqdJs8xpeU=
+github.com/zhiyanfoo/module-a v0.2.1-0.20230311205151-a1c18eabc27e/go.mod h1:y43O629l/hkq79rAmjHfkk/llCWJWcvRO08NGHjyoaU=
+github.com/zhiyanfoo/module-a/seperate-lib1 v0.0.0-20230312011940-63babd08096f h1:O8/Tgi8bGR96K3jpsPRm5ltXlalX85HNN/nRyBoYcLU=
+github.com/zhiyanfoo/module-a/seperate-lib1 v0.0.0-20230312011940-63babd08096f/go.mod h1:N1ohXoJZ7BFrdpUvnioXAOfFeJZ8yEUi+4/0bRk3zPQ=
